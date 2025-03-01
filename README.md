@@ -1,17 +1,17 @@
 # README
 
-## Tentang Situs Ini
+## Tentang Konten Ini
 
-Situs ini merupakan properti resmi dari **IDEA THESIS**, yang bergerak dalam bidang Jasa Penulisan Tugas Akhir Terpercaya. Situs ini dapat diakses melalui [https://ideathesis.biz.id/](https://ideathesis.biz.id/).
+Konten ini merupakan properti resmi dari **IDEA THESIS**, yang bergerak dalam bidang Jasa Penulisan Tugas Akhir Terpercaya. Situs ini dapat diakses melalui [https://ideathesis.biz.id/](https://ideathesis.biz.id/).
 
 ---
 
 ### Hak Cipta dan Penggunaan
 
 #### Bahasa Indonesia:
-Seluruh kode sumber, desain, konten, dan elemen lain yang terdapat dalam situs ini adalah hak milik **IDEA THESIS**. Anda dilarang keras untuk menyalahgunakan, mendistribusikan ulang, atau menggunakan situs ini tanpa izin tertulis dari **IDEA THESIS**.
+Seluruh kode sumber, desain, konten, dan elemen lain yang terdapat dalam situs ini adalah hak milik **IDEA THESIS**. Anda dilarang keras untuk menyalahgunakan, mendistribusikan ulang, atau menggunakan konten ini tanpa izin tertulis dari **IDEA THESIS**.
 
-Jika ada pihak yang menyalahgunakan situs ini, baik dengan mengatasnamakan **IDEA THESIS** maupun mencari keuntungan secara tidak sah, maka tindakan hukum akan diambil sesuai dengan undang-undang yang berlaku di Indonesia dan Internasional. Berikut adalah beberapa peraturan yang relevan:
+Jika ada pihak yang menyalahgunakan konten ini, baik dengan mengatasnamakan **IDEA THESIS** maupun mencari keuntungan secara tidak sah, maka tindakan hukum akan diambil sesuai dengan undang-undang yang berlaku di Indonesia dan Internasional. Berikut adalah beberapa peraturan yang relevan:
 
 1. **Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta**  
    - **Pasal 9**: Setiap orang yang dengan sengaja dan tanpa hak melakukan pelanggaran hak cipta atas karya yang dilindungi dapat dikenai sanksi pidana.
@@ -26,7 +26,7 @@ Jika ada pihak yang menyalahgunakan situs ini, baik dengan mengatasnamakan **IDE
    - **World Intellectual Property Organization (WIPO) Copyright Treaty**: Menegaskan bahwa setiap pelanggaran hak cipta di dunia digital dapat diproses secara internasional.
 
 **Peringatan:**  
-Setiap pelanggaran terhadap ketentuan ini akan diproses secara hukum sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia dan Internasional. **IDEA THESIS** berhak untuk mengambil tindakan hukum terhadap siapa pun yang melanggar hak cipta atau menggunakan situs ini secara tidak sah.
+Setiap pelanggaran terhadap ketentuan ini akan diproses secara hukum sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia dan Internasional. **IDEA THESIS** berhak untuk mengambil tindakan hukum terhadap siapa pun yang melanggar hak cipta atau menggunakan konten ini secara tidak sah.
 
 ---
 
@@ -55,7 +55,7 @@ Any violation of these terms will be prosecuted under applicable laws in Indones
 ### Konsekuensi Hukum
 
 #### Bahasa Indonesia:
-Pelanggaran terhadap hak cipta atau penggunaan situs ini secara tidak sah dapat mengakibatkan konsekuensi hukum serius, termasuk:
+Pelanggaran terhadap hak cipta atau penggunaan konten ini secara tidak sah dapat mengakibatkan konsekuensi hukum serius, termasuk:
 - **Hukuman Pidana**: Penjara hingga 10 tahun (UU Hak Cipta) atau 12 tahun (UU ITE).
 - **Denda**: Maksimal Rp4.000.000.000 (UU Hak Cipta) atau Rp12.000.000.000 (UU ITE).
 - **Gugatan Perdata**: Ganti rugi atas kerugian materiil dan immateriil yang ditimbulkan.
@@ -70,7 +70,7 @@ Violation of copyright or unauthorized use of this site may result in serious le
 
 ### Kontak Kami
 
-Untuk informasi lebih lanjut atau jika Anda memiliki pertanyaan terkait penggunaan situs ini, silakan hubungi kami:
+Untuk informasi lebih lanjut atau jika Anda memiliki pertanyaan terkait penggunaan konten ini, silakan hubungi kami:
 
 - **Website**: [https://ideathesis.biz.id/](https://ideathesis.biz.id/)
 - **Email**: [admin@ideathesis.biz.id](mailto:admin@ideathesis.biz.id)
@@ -79,7 +79,7 @@ Untuk informasi lebih lanjut atau jika Anda memiliki pertanyaan terkait pengguna
 
 ### Disclaimer
 
-Kami tidak bertanggung jawab atas segala bentuk kerugian yang timbul akibat penyalahgunaan situs ini oleh pihak yang tidak berwenang. Setiap tindakan hukum yang diambil terhadap pelanggaran hak cipta atau penggunaan ilegal akan dilakukan sesuai dengan hukum yang berlaku.
+Kami tidak bertanggung jawab atas segala bentuk kerugian yang timbul akibat penyalahgunaan konten ini oleh pihak yang tidak berwenang. Setiap tindakan hukum yang diambil terhadap pelanggaran hak cipta atau penggunaan ilegal akan dilakukan sesuai dengan hukum yang berlaku.
 
 Thank you for your understanding and cooperation.
 
